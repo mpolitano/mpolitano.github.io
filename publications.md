@@ -1,31 +1,17 @@
-## This can be your internal website page / project page
+#### [Publications](/publications)         [Teaching](/teaching)     [CV](/CVPolitano-2019-Ingles.pdf) 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+## Publications
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 2019
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### [Automatically Identifying Sufficient Object Builders from Module APIs](/paperBuilders.pdf)
+<br>
+Pablo Ponzio, Valeria Bengolea, Mariano Politano, Nazareno Aguirre, Marcelo F. Frias - 22nd International Conference on Fundamental Approaches to Software Engineering, FASE 2019. Prague, Czech Republic.
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2017
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [DynAlloy Analyzer: A Tool for the Specification and Analysis of Alloy Models with Dynamic Behaviour](/paperDynAlloyFSE.pdf)
+<br>
+Germán Regis (UNRC), César Cornejo (UNRC), Simón Gutiérrez Brida (UNRC), Mariano Politano (UNRC), Fernando Raverta (UNC), Pablo Ponzio (UNRC), Nazareno Aguirre (UNRC), Juan Pablo Galeotti, (UBA) y Marcelo Frias (ITBA) - 11th Joint meeting of the European Software Engineering Conference and the ACM Sigsoft Symposium on the Foundations of Software Engineering – ESEC/FSE 2017 - Paderborn, Alemania

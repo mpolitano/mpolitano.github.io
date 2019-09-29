@@ -1,3 +1,6 @@
+#### [Publications](/publications)         [Teaching](/teaching)     [CV](/CVPolitano-2019-Ingles.pdf) 
+
+---
 ## Teaching
 
 ### Teaching Assitant
