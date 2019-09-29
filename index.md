@@ -1,4 +1,4 @@
-#### [Publications](/publications)         [Teaching](/teaching)     [CV](/sample_page) 
+#### [Publications](/publications)         [Teaching](/teaching)     [CV](/CVPolitano-2019-Ingles.pdf) 
 
 ---
 
