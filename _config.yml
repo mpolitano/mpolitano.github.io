@@ -5,10 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Argentina
 
   <br><br>
-  <a href=www.linkedin.com/in/mpolitano">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/mpolitano">View My LinkedIn Profile</a> 
 
   <br><br>
-  <a href=www.github.com/mpolitano">View My GitHub Profile</a> 
+  <a href="www.github.com/mpolitano">View My GitHub Profile</a> 
   
   <br><br>
   <a href="mailto:marianopolitano@dc.exa.unrc.edu.ar">Email Me</a> 
