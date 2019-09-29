@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 title: Mariano POlitano # your name (or website title) here
 logo: "/images/imPro.jpg
 ?raw=true" # your photo (or logo) here
-=======
 title: Mariano Politano # your name (or website title) here
-logo: "/images/i1.jpg?raw=true" # your photo (or logo) here
->>>>>>> 9daead4a5daf864ddd71bf66475b1da5c49b68b9
+logo: "/images/imPro.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD student, Computer Science Department, University of Río Cuarto  <br><br>
   Argentina
