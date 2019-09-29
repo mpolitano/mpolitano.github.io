@@ -1,4 +1,4 @@
-#### [Publications](/publications)         [Teaching](/teaching)     [CV](/CVPolitano-2019-Ingles.pdf) {:target="_blank"}
+#### [Publications](/publications)&Tab&Tab&Tab[Teaching](/teaching)&Tab&Tab&Tab     [CV](/CVPolitano-2019-Ingles.pdf")
 
 ---
 ## Publications
