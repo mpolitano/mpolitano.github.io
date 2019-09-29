@@ -1,4 +1,4 @@
-#### [Publications](/publications)         [Teaching](/sample_page)     [CV](/sample_page) 
+#### [Publications](/publications)         [Teaching](/teaching)     [CV](/sample_page) 
 
 ---
 
