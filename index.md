@@ -10,8 +10,8 @@
 	I received my Bachelor’s Degree in Rio Cuarto National University.
 	<br>
 	<br>
-	My research interests lie in the general area of Software Engineering, particularly in automatic generation of tests, guided by code mutations. Due that some recent studies found that good levels of code coverage are not correlated with the ability to detect real errors in software and when the test suites have a good capacity for mutant elimination, in general they are also good for detecting real errors. 
-	It motive my research topic that is definition of specific techniques for the automatic construction of tests based on and/or guided in mutation testing. It involves use symbolic execution techniques, minimizing suites, use of constraint solving.
+	My research interests lies in the general area of Software Engineering, particularly in automatic test generation, guided by code mutations. This research is based on recent studies which found that good levels of code coverage are not correlated with the ability to detect real errors in software, but when the test suites have a good capacity for mutant detection, in general they are also good for detecting real errors. 
+	It motive my research topic that is definition of specific techniques for the automatic tests construction based on and/or guided in mutation testing. It involves using symbolic execution techniques, test suites minimization, constraint solving, among others.
 </div>
 
 
