@@ -11,7 +11,7 @@
 	<br>
 	<br>
 	My research interests lie in the general area of Software Engineering, particularly in automatic generation of tests, guided by code mutations. Due that some recent studies found that good levels of code coverage are not correlated with the ability to detect real errors in software and when the test suites have a good capacity for mutant elimination, in general they are also good for detecting real errors. 
-	It motive my research topic that is definition of specific techniques for the automatic construction of tests based on and/or guided in mutation testing. It involves use symbolic execution techniques, minimizing suites...
+	It motive my research topic that is definition of specific techniques for the automatic construction of tests based on and/or guided in mutation testing. It involves use symbolic execution techniques, minimizing suites, use of constraint solving.
 </div>
 
 
