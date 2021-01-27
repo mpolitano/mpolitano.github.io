@@ -6,6 +6,18 @@
 ### Teaching Assitant
 
 
+Undergraduate course, University of Río Cuarto, Computer Science Department, 2020<br>
+Teaching Assistant in the course Distributed and Outsourced Software Engineering.
+
+### Teaching Assitant
+
+
+Undergraduate course, University of Río Cuarto, Computer Science Department, 2020<br>
+Teaching Assistant in the course Operating System.
+
+### Teaching Assitant
+
+
 Undergraduate course, University of Río Cuarto, Computer Science Department, 2019<br>
 Teaching Assistant in the course Distributed and Outsourced Software Engineering.
 
